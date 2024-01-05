@@ -39,3 +39,4 @@ pkg/meta/badger
 /juicefs.exe
 /juicefs.lite
 dist/
+.direnv
